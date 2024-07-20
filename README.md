@@ -1,5 +1,5 @@
 # cropsDatasetAnalytics
-## Hoster link: https://crops-dataset-analytics.vercel.app/
+## Hosted link: https://crops-dataset-analytics.vercel.app/
 <br/>
 #Getting Started
 
