@@ -1,9 +1,9 @@
 # cropsDatasetAnalytics
 ## Hosted link: https://crops-dataset-analytics.vercel.app/
 <br/>
-#Getting Started
+# Getting Started
 
-##Objective
+## Objective
  - Analyze the Indian Agriculture dataset.
  - Display the analysis results as tables.
 
@@ -11,7 +11,7 @@
  - Frontend: React.js, Tailwind CSS, Mantine v7 ( for tables)
  - Deployment: Vercel
 
-##Commands 
+## Commands 
 
 1) Clone the repository: https://github.com/Aditya-IIITD/cropsDatasetAnalytics.git
 2) Install dependencies: npm install
